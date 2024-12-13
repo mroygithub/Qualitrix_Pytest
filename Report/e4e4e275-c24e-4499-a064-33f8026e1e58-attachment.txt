@@ -1,0 +1,2 @@
+Docker App is launched Successfully ... ..... PASS
+Docker Logo is present ..... PASS
